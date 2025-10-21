@@ -1,17 +1,19 @@
 body {
     font-size: 1.125rem;
     font-family: "Kumbh Sans", sans-serif;
+    background-color: hsl(0, 100%, 100%);
 }
 
 .hero {
     background-color:  hsl(0, 0%, 98%);
 }
-
-.features {
-      background-color: hsl(220, 16%, 96%);
-      padding: 10px;
+.btn {
+    width: 160px;
+    height: 44px;
+    border-radius: 22px;
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%);
+    color: hsl(0, 100%, 100%);
 }
-
-.articles {
-    background-color: hsl(0, 100%, 100%);
+.footer {
+    background-color: hsl(233, 26%, 24%);
 }
