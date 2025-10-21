@@ -1,0 +1,17 @@
+body {
+    font-size: 1.125rem;
+    font-family: "Kumbh Sans", sans-serif;
+}
+
+.hero {
+    background-color:  hsl(0, 0%, 98%);
+}
+
+.features {
+      background-color: hsl(220, 16%, 96%);
+      padding: 10px;
+}
+
+.articles {
+    background-color: hsl(0, 100%, 100%);
+}
